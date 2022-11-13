@@ -11,6 +11,8 @@
 - nodejs에서 session을 사용할 수 있게 해준다.  
 #### setting/color-hash.js
 - 각 요청의 고유한 색상 정보를 req.session.color 에 저장한다.
+#### setting/swagger.js
+- jsdocs을 사용해서 swagger 3.0 을 사용할 수 있도록 한다.
 
 <hr>
 
